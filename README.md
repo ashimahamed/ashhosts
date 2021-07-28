@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ashim
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c#
+### Hi there, I’m Ashim - aka [website]
 
-Languages and Tools:
-Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C#
+- 🌱 I'm C++ developer
+
 
