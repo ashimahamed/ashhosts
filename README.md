@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashim</h1>
 <h3 align="center">I'm a Web and C++ Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashhosts&label=Profile%20views&color=0e75b6&style=flat" alt="ashhosts" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashhosts" alt="ashhosts" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ash_host" target="blank"><img src="https://img.shields.io/twitter/follow/ash_host?logo=twitter&style=for-the-badge" alt="ash_host" /></a> </p>
 
 - 🔭 I also have my own hosting company [Ash Host](https://ashhost.in)
