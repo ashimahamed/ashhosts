@@ -1,4 +1,4 @@
-### Hi there, I’m Ashim - aka [website]
+## Hi there, I’m Ashim 
 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C#
