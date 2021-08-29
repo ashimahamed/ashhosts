@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashim</h1>
-<h3 align="center">I'm a Web and C++ Developer</h3>
+<h3 align="center">I'm a Front-End Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/ash_host" target="blank"><img src="https://img.shields.io/twitter/follow/ash_host?logo=twitter&style=for-the-badge" alt="ash_host" /></a> </p>
 
