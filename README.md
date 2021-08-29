@@ -5,7 +5,7 @@
 
 - 🔭 I also have my own hosting company [Ash Host](https://ashhost.in)
 
-- 🌱 I’m currently learning **C# and Python**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **ashim@ashhost.in**
 
