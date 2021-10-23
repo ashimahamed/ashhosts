@@ -4,15 +4,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashhosts" alt="ashhosts" /></a> </p>
 
-- 🔭 I’m currently working on **Ash Host**
-
-- 🌱 I’m currently learning **Python**
-
-- 👨‍💻 All of my projects are available at [https://ashim.codes](https://ashim.codes)
-
-- 💬 Ask me about **JavaScript**
-
-- 📫 How to reach me **ashim@ashhost.in**
+```js
+const Ashim = {
+    Age: 16,
+    Description: "I like to code what I love to make...",
+    FavouriteLanguage: "Javascript/Typescript",
+    OpenedIssues: 59,
+    OpenedPullRequests: 47,
+    TotalCommits: 5172,
+    Repositories: {
+       Created: 66,
+       Contributed: 57
+    },
+    CreatedAt: "Tue Sep 17 2019 00:56:31 GMT+0000 (Coordinated Universal Time)",
+    Stars: 1286,
+    FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code", "A Potato PC with 50kbps internet", "Docker"]
+}; //I'm a Epic Object. UwU
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
