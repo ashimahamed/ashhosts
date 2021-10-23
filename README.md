@@ -4,8 +4,7 @@
 
 ```js
 var Ashim = {
-    Age: 16,
-    Description: "I like to code what I love to make...",
+    Description: "A Web Developer, I like to Code!",
     MyFavLanguage: "Javascript/C++",
     },
     FavouriteThings: ["VS Code", "NodeJS", "Front-End Developer"]
