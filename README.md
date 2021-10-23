@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashhosts&label=Profile%20views&color=0e75b6&style=flat" alt="ashhosts" /> </p>
 
 ```js
-const Ashim = {
+var Ashim = {
     Age: 16,
     Description: "I like to code what I love to make...",
     MyFavLanguage: "Javascript/C++",
