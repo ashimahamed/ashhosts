@@ -5,9 +5,9 @@
 ```js
 var Ashim = {
     Description: "A Web Developer, I like to Code!",
-    MyFavLanguage: "Javascript/C++",
+    MyFavLanguage: "Javascript/TypeScript",
     },
-    FavouriteThings: ["VS Code", "NodeJS", "Front-End Developer"]
+    FavouriteThings: ["VS-Code", "SCSS", "Bootsrap"]
 };
 ```
 
