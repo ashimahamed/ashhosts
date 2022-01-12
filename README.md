@@ -7,7 +7,7 @@ var Ashim = {
     Description: "A Web Developer, I like to Code!",
     MyFavLanguage: "Javascript/TypeScript",
     },
-    FavouriteThings: ["VS-Code", "SCSS", "Bootsrap"]
+    FavouriteThings: ["VS-Code", "NodeJS "Bootsrap"]
 };
 ```
 
